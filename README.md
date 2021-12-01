@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="61IJ2wJFuU34JlyubEdmVJoieEaqB9oUQOsgsGPMv7M" />
+
 ### Hi there 👋
 
 - 🙋‍♂️ I'm Siddhant Bapna 
@@ -10,5 +12,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<meta name="google-site-verification" content="61IJ2wJFuU34JlyubEdmVJoieEaqB9oUQOsgsGPMv7M" />
