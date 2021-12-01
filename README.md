@@ -16,11 +16,8 @@
   <li>📫 How to reach me: ...</li>
   <li>😄 Pronouns: ...</li>
   <li>⚡ Fun fact: ...</li>
+  <li> <div id = "heysh"> <div name="google-site-verification" content="61IJ2wJFuU34JlyubEdmVJoieEaqB9oUQOsgsGPMv7M" /> hy </div> </li>
 </ul>
 
- <script>
-  
- </script>
-  
 </body>
 </html>
