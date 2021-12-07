@@ -16,12 +16,7 @@
   <li>📫 How to reach me: ...</li>
   <li>😄 Pronouns: ...</li>
   <li>⚡ Fun fact: ...</li>
-  <li> <div id = "heysh"> <meta name="google-site-verification" content="61IJ2wJFuU34JlyubEdmVJoieEaqB9oUQOsgsGPMv7M" /></div> </li>
 </ul>
-
-
-https://user-images.githubusercontent.com/80174843/144555318-97269e7d-83f4-4655-915f-74fd597ae0bf.mov
-
 
 </body>
 </html>
